@@ -2,7 +2,7 @@
 A program implementing the JPEG format in Python. It follows the latest standards of the format, uses the most advanced DCT algorithm published, and no external library.
 
 From PPM ASCII format to JPEG, it performs:
--PPM reading and tokenization
+-PPM reading and tokenization  
 -RGB to YCbCr conversion & channel separation (using the JPEG standard that uses a modified version of the ITU-R BT.601 standard)
 -Subsampling on the lumiance channels, since the human eye is less sentitive to luminance information than to chrominance's.)
 -Block-splitting in 8x8 matrices
