@@ -1,5 +1,5 @@
 # JPEG-Python-no-library
-A program implementing the JPEG format in Python, using the most advanced DCT algorithm published, and no external library.
+A program implementing the JPEG format in Python. It follows the latest standards of the format, uses the most advanced DCT algorithm published, and no external library.
 
 From PPM ASCII format to JPEG, it performs:
 -PPM reading and tokenization
