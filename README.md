@@ -1,7 +1,7 @@
 # JPEG-Python-no-library
 A program implementing the JPEG format in Python, using the most advanced compression techniques published and no library.
 
-From PPM ASCII to JPEG, it performs: 
+From PPM ASCII to JPEG, it performs: \n
 -PPM reading and tokenization
 -RGB to YCbCr conversion & channel separation
 -Subsampling on the Cb and Cr channels
